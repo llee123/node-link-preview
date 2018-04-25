@@ -1,6 +1,6 @@
 {
   "name": "node-link-preview",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Library to return title, description and highlighted image of a site to generate a link preview preview",
   "author": "Thiago Feijor <thiago@feijor.com.br> (feijor.com.br)",
   "license": "MIT",
@@ -10,11 +10,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/Feijor/node-link-preview.git"
+    "url": "git://github.com/llee123/node-link-preview.git"
   },
   "main": "./index.js",
   "files": [
-    "index.js"
+    "index.js",
+    "link-preview.js"
   ],
   "engines": {
     "node": ">= 0.6"
